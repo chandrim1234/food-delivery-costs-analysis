@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a8a9839e-40f3-4e31-9f0c-aacf0ef081ed)
+
 # food-delivery-costs-analysis
 
 The uploaded Jupyter Notebook is successfully loaded. It appears to be structured with a combination of markdown and code cells that likely describe and analyze data related to food delivery costs. Here's a breakdown of its key components:
